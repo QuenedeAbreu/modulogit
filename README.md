@@ -5,9 +5,9 @@
 
 1. MENU CADASTRO
 
-	*Para efetuar o cadastro de País, Medalha, Esporte, Atleta e Modalidade o usuário deverá acessar a barra superior esquerda no menu cadastro, nesse menu ele terá as opções mencionadas acima.
+	* Para efetuar o cadastro de País, Medalha, Esporte, Atleta e Modalidade o usuário deverá acessar a barra superior esquerda no menu cadastro, nesse menu ele terá as opções mencionadas acima.
 
-	*Este menu oferece as opções de cadastro, esse cadastro deverá obedecer uma sequência ordenada de cadastro de Itens, pois as tabelas possuem dependências, a não existência de um item em determinada tabela ocasionará em um problema em dependentes.  Todas as funcionalidades de atualização estão nesse menu. Portanto, a exclusão, por exemplo, de um país que já esteja atrelado a um atleta resultará na exclusão simultânea do atleta no ranking.
+	* Este menu oferece as opções de cadastro, esse cadastro deverá obedecer uma sequência ordenada de cadastro de Itens, pois as tabelas possuem dependências, a não existência de um item em determinada tabela ocasionará em um problema em dependentes.  Todas as funcionalidades de atualização estão nesse menu. Portanto, a exclusão, por exemplo, de um país que já esteja atrelado a um atleta resultará na exclusão simultânea do atleta no ranking.
 
 2. CADASTRO
 
