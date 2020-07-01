@@ -9,18 +9,20 @@
 
 1. MENU CADASTRO
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/39633455/86288064-e5a94200-bbae-11ea-94e0-00b810dbb431.jpg">
-</p>
+	<p align="center">
+	<img src="https://user-images.githubusercontent.com/39633455/86288064-e5a94200-bbae-11ea-94e0-00b810dbb431.jpg">
+	</p>
 
 	* Para efetuar o cadastro de País, Medalha, Esporte, Atleta e Modalidade o usuário deverá acessar a barra superior esquerda no menu cadastro, nesse menu ele terá as opções mencionadas acima.
 
 	* Este menu oferece as opções de cadastro, esse cadastro deverá obedecer uma sequência ordenada de cadastro de Itens, pois as tabelas possuem dependências, a não existência de um item em determinada tabela ocasionará em um problema em dependentes.  Todas as funcionalidades de atualização estão nesse menu. Portanto, a exclusão, por exemplo, de um país que já esteja atrelado a um atleta resultará na exclusão simultânea do atleta no ranking.
 
 2. MENU PAÍS
-<p align="center">
-<img src="https://user-images.githubusercontent.com/39633455/86288054-e346e800-bbae-11ea-9ae2-aad00fca927a.jpg">
-</p>
+
+	<p align="center">
+	<img src="https://user-images.githubusercontent.com/39633455/86288054-e346e800-bbae-11ea-9ae2-aad00fca927a.jpg">
+	</p>
+
 	* No menu Pais, o Usuário poderá adicionar ou excluir o país desejado.
 
 	2.1. Adicionar um país
@@ -45,9 +47,8 @@
 	<p align="center">
 	<img src="https://user-images.githubusercontent.com/39633455/86288038-e0e48e00-bbae-11ea-8a1a-6ed449c977f0.jpg">
 	</p>
+	
 	* No menu esporte o usuário assim como no menu anterior tem a opção de Cadastrar, atualizar ou excluir um Esporte.
-
-
 
 	3.1. Como cadastrar um Novo Esporte
  
