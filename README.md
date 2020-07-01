@@ -1,7 +1,8 @@
+
 # Trabalho de POO (Quadro de Medalhas das Olimpiadas)
 
 
-
+![ic-logo](https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png)
 
 1. MENU CADASTRO
 
