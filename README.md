@@ -106,20 +106,21 @@
 
 	* O menu busca permite ao usuário pesquisar no banco de dados do sistema os atletas, países, medalhas, modalidades e esportes que estão cadastrados.
 
-	** Funcionamento
-	*** Ao clicar em buscar as opções mencionadas acima aparecerão.
+		* Funcionamento
+	
+			* Ao clicar em buscar as opções mencionadas acima aparecerão.
 
 	6.1. Item de menu “Buscar Atleta” 
 
 	* Este item abre uma tela informando sobre o pódio de atletas, neste caso, é mostrado um pódio que é classificado de acordo com a quantidade de medalhas de ouro. Ela contém uma caixa de texto em que é possível fazer busca automática na lista de atletas cadastrados. Esta lista se dispõe logo abaixo e contém informações como o nome do atleta, seu gênero, o número de medalhas que possui e o total de medalhas ganhas, porém é possível visualizar apenas os atletas que possuem alguma medalha. Por padrão a lista já vem ordenada conforme o número de medalhas de Ouro, depois Prata e Por último Bronze. 
 	* Cada campo dessa lista ao ser clicado permite fazer um tipo de ordenação, para facilitar a navegação e aumentar a praticidade:
 		
-	** Coluna Nome: permite ordenar os nomes da lista em ordem alfabética crescente e decrescente;
-	** Coluna Gênero: ordena pelo gênero masculino ou feminino (é feito um ordenamento);
-	** Coluna Ouro: ordena pelo número de medalhas de ouro crescente e decrescente;
-	** Coluna Prata: ordena pelo número de medalhas de Prata crescente e decrescente;
-	** Coluna Bronze: ordena pelo número de medalhas de Bronze crescente e decrescente;
-	** Coluna Total: ordena pelo total de medalhas adquiridas. Pode ser por ordem crescente ou decrescente também. 
+		* Coluna Nome: permite ordenar os nomes da lista em ordem alfabética crescente e decrescente;
+		* Coluna Gênero: ordena pelo gênero masculino ou feminino (é feito um ordenamento);
+		* Coluna Ouro: ordena pelo número de medalhas de ouro crescente e decrescente;
+		* Coluna Prata: ordena pelo número de medalhas de Prata crescente e decrescente;
+		* Coluna Bronze: ordena pelo número de medalhas de Bronze crescente e decrescente;
+		* Coluna Total: ordena pelo total de medalhas adquiridas. Pode ser por ordem crescente ou decrescente também. 
 
 	* O botão Atualizar permite atualizar a tabela caso seja feita simultâneamente uma alteração em algum registro. Por exemplo, ao exibir o pódio de atletas e por acaso querermos fazer a premiação de alguma medalha em outra tela, a tela de busca não atualiza automaticamente, a(s) medalha(s) ou outra(s) alteração(ões) feita(s), então este botão faz um refresh na tabela. 
 
