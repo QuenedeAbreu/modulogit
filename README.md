@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39633455/86286097-7ed65980-bbab-11ea-82ce-26c495bb9a59.png"><br/>
+<img src="https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png"><br/>
 <img src="https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png">
 </p>
 
@@ -13,7 +14,7 @@
 
 	* Este menu oferece as opções de cadastro, esse cadastro deverá obedecer uma sequência ordenada de cadastro de Itens, pois as tabelas possuem dependências, a não existência de um item em determinada tabela ocasionará em um problema em dependentes.  Todas as funcionalidades de atualização estão nesse menu. Portanto, a exclusão, por exemplo, de um país que já esteja atrelado a um atleta resultará na exclusão simultânea do atleta no ranking.
 
-2. CADASTRO
+2. MENU PAÍS
 
 	* No menu Pais, o Usuário poderá adicionar ou excluir o país desejado.
 
