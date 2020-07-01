@@ -15,8 +15,8 @@
 
 	2.1. Adicionar um país
 	
-		* Para adicionar um País novo à tabela pressione a opção “Novo”, esse Botão serve para abrir a opção de cadastro. 
-		* Após isso vá para a lacuna “Nome do País” e escreva o nome  desejado , depois pressione a opção cadastrar, irá aparecer o mensagem “salvo com sucesso ” e então o país aparecerá na lista.
+	* Para adicionar um País novo à tabela pressione a opção “Novo”, esse Botão serve para abrir a opção de cadastro. 
+	* Após isso vá para a lacuna “Nome do País” e escreva o nome  desejado , depois pressione a opção cadastrar, irá aparecer o mensagem “salvo com sucesso ” e então o país aparecerá na lista.
 
 	2.2. Exclusão de um País 
 	
