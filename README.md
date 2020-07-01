@@ -128,11 +128,11 @@
 
 	* Este item abre uma tela informando sobre o pódio de países conforme o número de medalhas ganhas pelos seus atletas. O pódio principal contém a colocação dos 3 primeiros colocados de acordo com a quantidade de medalhas de ouro. Ela contém uma caixa de texto em que é possível fazer busca automática na lista de países cadastrados. Essa lista se dispõe logo abaixo e contém informações como o nome do país, a quantidade de medalhas que possui e o total de medalhas ganhas, porém, é possível visualizar apenas os países que possuem medalhas. Por padrão a lista já vem ordenada conforme o número de medalhas de Ouro, depois Prata e por último Bronze. 
 	* Cada campo dessa lista ao ser clicado permite fazer um tipo de ordenação, para facilitar a navegação e aumentar a praticidade:
-	** Coluna Nome: permite ordenar os nomes da lista em ordem alfabética crescente ou decrescente;
-	** Coluna Ouro: ordena pelo número de medalhas de ouro crescente ou decrescente;
-	** Coluna Prata: ordena pelo número de medalhas de Prata crescente ou decrescente;
-	** Coluna Bronze: ordena pelo número de medalhas de Bronze crescente ou decrescente;
-	** Coluna Total: ordena pelo total de medalhas adquiridas. Pode ser por ordem crescente ou decrescente também. 
+		* Coluna Nome: permite ordenar os nomes da lista em ordem alfabética crescente ou decrescente;
+		* Coluna Ouro: ordena pelo número de medalhas de ouro crescente ou decrescente;
+		* Coluna Prata: ordena pelo número de medalhas de Prata crescente ou decrescente;
+		* Coluna Bronze: ordena pelo número de medalhas de Bronze crescente ou decrescente;
+		* Coluna Total: ordena pelo total de medalhas adquiridas. Pode ser por ordem crescente ou decrescente também. 
 
 	* O botão Atualizar permite atualizar a tabela caso seja feita simultâneamente uma alteração em algum registro. Por exemplo, ao exibir o pódio de países e por acaso querermos fazer uma premiação de alguma medalha para algum atleta que pertence a um país, em outra tela, a tela de busca não atualiza automaticamente, a(s) medalha(s) ou outra(s) alteração(ões) feita(s), então este botão faz um refresh na tabela. 
 
@@ -157,15 +157,15 @@
 
 	* O item de menu Premiar Atleta abre uma tela que permite atribuir uma medalha a um atleta cadastrado. Primeiramente, por precaução contra possíveis alterações causadas por eventuais entradas acidentais de dados, o campo de Pesquisa, a caixa de combinação com os nomes de todos os atletas (com e sem medalhas), a caixa de combinação com todas as modalidades, a caixa de combinação com os três tipos de medalha, os botões Cadastrar, Atualizar, Deletar e Limpar ficam bloqueados. Eles desbloqueiam suas funções apenas quando o botão Novo é clicado.  Isso é uma maneira de fazermos o controle das atribuições destas medalhas.
 	* Quando as opções estiverem liberadas pode-se:
-	** Pesquisar automaticamente por atletas cadastrados no campo de texto específico. A tabela na tela mostra as informações relativas as medalhas que alguns atletas possuem. Ela mostra o nome, a modalidade em que a medalha foi adquirida e qual o tipo de medalha. Ao digitar o nome a tabela  organiza se automaticamente contribuindo para a usabilidade do programa. A ordem em que a tabela se dispõe é de acordo com a ordem de cadastro, ou seja, do mais antigo para o mais atual;
-	** Atribuir uma medalha a um atleta. Para isso as caixas de combinação “Atleta”, “Modalidade” e “Medalha” devem estar selecionados. As regras de cadastro seguem a seguinte ordem:
-	*** O atleta só pode ter uma única medalha para uma modalidade específica;
-	*** O atleta que já possui medalha naquela modalidade não pode receber a mesma medalha;
-	*** Em uma modalidade só existe um atleta com medalha de ouro, outro com medalha de prata e por último um com medalha de bronze. Se necessário, cadastre uma nova modalidade ou esporte em outra tela de cadastro.
+		* Pesquisar automaticamente por atletas cadastrados no campo de texto específico. A tabela na tela mostra as informações relativas as medalhas que alguns atletas possuem. Ela mostra o nome, a modalidade em que a medalha foi adquirida e qual o tipo de medalha. Ao digitar o nome a tabela  organiza se automaticamente contribuindo para a usabilidade do programa. A ordem em que a tabela se dispõe é de acordo com a ordem de cadastro, ou seja, do mais antigo para o mais atual;
+		* Atribuir uma medalha a um atleta. Para isso as caixas de combinação “Atleta”, “Modalidade” e “Medalha” devem estar selecionados. As regras de cadastro seguem a seguinte ordem:
+			* O atleta só pode ter uma única medalha para uma modalidade específica;
+			* O atleta que já possui medalha naquela modalidade não pode receber a mesma medalha;
+			* Em uma modalidade só existe um atleta com medalha de ouro, outro com medalha de prata e por último um com medalha de bronze. Se necessário, cadastre uma nova modalidade ou esporte em outra tela de cadastro.
 
 	*Atualizar uma premiação existente. Para isto basta selecionar os campos nas caixas de combinação “Atleta”, “Modalidade” e “Medalha”. As regras para atualizar são as seguintes: 
-	** A um atleta não pode ser atribuído a mesma medalha de outro atleta existente;
-	** Para atualizar a premiação a medalha em uma modalidade deve estar livre.
+		* A um atleta não pode ser atribuído a mesma medalha de outro atleta existente;
+		* Para atualizar a premiação a medalha em uma modalidade deve estar livre.
 
 	* Excluir uma premiação existente. Para isto basta selecionar os campos nas caixas de combinação “Atleta”, “Modalidade” e “Medalha”. Para haver e exclusão a premiação atribuída a um atleta em uma modalidade com uma medalha deve existir na tabela exibida;
 
