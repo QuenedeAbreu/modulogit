@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39633455/86286097-7ed65980-bbab-11ea-82ce-26c495bb9a59.png"><br/>
 <img src="https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png"><br/>
-<img src="https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png">
+<img src="https://user-images.githubusercontent.com/39633455/86288077-e8a43280-bbae-11ea-841e-04f2efc148c0.jpg">
 </p>
 
 1. MENU CADASTRO
