@@ -163,7 +163,7 @@
 			* O atleta que já possui medalha naquela modalidade não pode receber a mesma medalha;
 			* Em uma modalidade só existe um atleta com medalha de ouro, outro com medalha de prata e por último um com medalha de bronze. Se necessário, cadastre uma nova modalidade ou esporte em outra tela de cadastro.
 
-	*Atualizar uma premiação existente. Para isto basta selecionar os campos nas caixas de combinação “Atleta”, “Modalidade” e “Medalha”. As regras para atualizar são as seguintes: 
+	* Atualizar uma premiação existente. Para isto basta selecionar os campos nas caixas de combinação “Atleta”, “Modalidade” e “Medalha”. As regras para atualizar são as seguintes: 
 		* A um atleta não pode ser atribuído a mesma medalha de outro atleta existente;
 		* Para atualizar a premiação a medalha em uma modalidade deve estar livre.
 
