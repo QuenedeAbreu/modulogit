@@ -70,6 +70,7 @@
 	<p align="center">
 	<img src="https://user-images.githubusercontent.com/39633455/86288033-dfb36100-bbae-11ea-92d2-659c7596d03a.jpg">
 	</p>
+	
 	* No menu Atleta o usuário assim como no menu anterior tem a opção de Cadastrar, atualizar ou excluir um Atleta.
 
 	4.1. Como cadastrar um Novo Atleta
@@ -93,6 +94,7 @@
 	<p align="center">
 	<img src="https://user-images.githubusercontent.com/39633455/86288048-e2ae5180-bbae-11ea-9490-0619a5fb269b.jpg">
 	</p>
+	
 	* No menu Modalidade o usuário assim como no menu anterior tem a opção de Cadastrar, atualizar ou excluir alguma  modalidade.
 
 	5.1. Cadastro de Modalidade
@@ -123,6 +125,7 @@
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86288059-e4781500-bbae-11ea-9239-bd369e9ae7e7.jpg">
 		</p>
+		
 	* O menu busca permite ao usuário pesquisar no banco de dados do sistema os atletas, países, medalhas, modalidades e esportes que estão cadastrados.
 
 		* Funcionamento
@@ -130,9 +133,11 @@
 			* Ao clicar em buscar as opções mencionadas acima aparecerão.
 
 	6.1. Item de menu “Buscar Atleta” 
+		
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86288083-e9d55f80-bbae-11ea-9e74-2909e6ed128c.jpg">
 		</p>
+		
 	* Este item abre uma tela informando sobre o pódio de atletas, neste caso, é mostrado um pódio que é classificado de acordo com a quantidade de medalhas de ouro. Ela contém uma caixa de texto em que é possível fazer busca automática na lista de atletas cadastrados. Esta lista se dispõe logo abaixo e contém informações como o nome do atleta, seu gênero, o número de medalhas que possui e o total de medalhas ganhas, porém é possível visualizar apenas os atletas que possuem alguma medalha. Por padrão a lista já vem ordenada conforme o número de medalhas de Ouro, depois Prata e Por último Bronze. 
 	* Cada campo dessa lista ao ser clicado permite fazer um tipo de ordenação, para facilitar a navegação e aumentar a praticidade:
 		
@@ -146,9 +151,11 @@
 	* O botão Atualizar permite atualizar a tabela caso seja feita simultâneamente uma alteração em algum registro. Por exemplo, ao exibir o pódio de atletas e por acaso querermos fazer a premiação de alguma medalha em outra tela, a tela de busca não atualiza automaticamente, a(s) medalha(s) ou outra(s) alteração(ões) feita(s), então este botão faz um refresh na tabela. 
 
 	6.2. Item de menu “Buscar País” 
+		
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86288025-de823400-bbae-11ea-8ed8-cb10bb764b2f.jpg">
 		</p>
+		
 	* Este item abre uma tela informando sobre o pódio de países conforme o número de medalhas ganhas pelos seus atletas. O pódio principal contém a colocação dos 3 primeiros colocados de acordo com a quantidade de medalhas de ouro. Ela contém uma caixa de texto em que é possível fazer busca automática na lista de países cadastrados. Essa lista se dispõe logo abaixo e contém informações como o nome do país, a quantidade de medalhas que possui e o total de medalhas ganhas, porém, é possível visualizar apenas os países que possuem medalhas. Por padrão a lista já vem ordenada conforme o número de medalhas de Ouro, depois Prata e por último Bronze. 
 	* Cada campo dessa lista ao ser clicado permite fazer um tipo de ordenação, para facilitar a navegação e aumentar a praticidade:
 		* Coluna Nome: permite ordenar os nomes da lista em ordem alfabética crescente ou decrescente;
@@ -160,21 +167,27 @@
 	* O botão Atualizar permite atualizar a tabela caso seja feita simultâneamente uma alteração em algum registro. Por exemplo, ao exibir o pódio de países e por acaso querermos fazer uma premiação de alguma medalha para algum atleta que pertence a um país, em outra tela, a tela de busca não atualiza automaticamente, a(s) medalha(s) ou outra(s) alteração(ões) feita(s), então este botão faz um refresh na tabela. 
 
 	6.3. Item de menu “Buscar Medalhas”
+		
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86289768-df689500-bbb1-11ea-8023-5a375d752094.jpg">
 		</p>
+		
 	* Esta opção está restrita aos usuários do sistema. Este item ao ser clicado solicita uma senha, esta libera o cadastro de novas medalhas e atualização das mesmas. O motivo disso é que só existem 3 tipos de medalhas e também para não cause problemas em cascata no sistema. Portanto, o intuito de manter isso são possíveis manutenções e melhorias futuras no sistema.
 
 	6.4. Item de menu “Buscar Modalidade”
-	<p align="center">
+		
+		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86289771-e099c200-bbb1-11ea-9542-2751a7fc69fe.jpg">
 		</p>
+	
 	* Esta opção permite ao usuário fizer uma busca automática na lista de modalidades cadastradas informando o nome da mesma no campo específico e clicando no botão “OK”. Logo abaixo, existe uma tabela que permite visualizar o código identificador da modalidade,  nome dela e o esporte ao qual ela pertence. A priori  a ordem pré estabelecida na tabela segue a ordem de cadastro, ou seja, do mais antigo para o mais atual.
 		
 	6.5. Item de menu “Buscar Esporte”
+	
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/39633455/86289775-e2638580-bbb1-11ea-95ce-c633199b5f99.jpg">
 		</p>
+
 	* Esta opção permite ao usuário fizer uma busca automática na lista de esportes cadastradas informando o nome do mesmo no campo específico e clicando no botão “OK”. Logo abaixo, existe uma tabela que permite visualizar o código identificador do esporte e o seu nome. A priori  a ordem pré estabelecida na tabela segue a ordem de cadastro, ou seja, do mais antigo para o mais atual.
 
 
