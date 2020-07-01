@@ -3,9 +3,10 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39633455/86286097-7ed65980-bbab-11ea-82ce-26c495bb9a59.png">
+<img src="https://user-images.githubusercontent.com/39633455/86286097-7ed65980-bbab-11ea-82ce-26c495bb9a59.png"><br/>
 <img src="https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png">
 </p>
+
 1. MENU CADASTRO
 
 	* Para efetuar o cadastro de País, Medalha, Esporte, Atleta e Modalidade o usuário deverá acessar a barra superior esquerda no menu cadastro, nesse menu ele terá as opções mencionadas acima.
