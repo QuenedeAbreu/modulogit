@@ -3,6 +3,8 @@
 
 
 ![ic-logo](https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png)
+![Olympics-2](https://user-images.githubusercontent.com/39633455/86286097-7ed65980-bbab-11ea-82ce-26c495bb9a59.png)
+
 
 1. MENU CADASTRO
 
